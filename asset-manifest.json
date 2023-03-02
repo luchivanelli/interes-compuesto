@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/interes-compuesto/static/css/main.a5b0e245.css",
+    "main.js": "/interes-compuesto/static/js/main.d1c0efb4.js",
+    "static/js/787.8aa549f5.chunk.js": "/interes-compuesto/static/js/787.8aa549f5.chunk.js",
+    "index.html": "/interes-compuesto/index.html",
+    "main.a5b0e245.css.map": "/interes-compuesto/static/css/main.a5b0e245.css.map",
+    "main.d1c0efb4.js.map": "/interes-compuesto/static/js/main.d1c0efb4.js.map",
+    "787.8aa549f5.chunk.js.map": "/interes-compuesto/static/js/787.8aa549f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5b0e245.css",
+    "static/js/main.d1c0efb4.js"
+  ]
+}
